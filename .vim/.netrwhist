@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/janlay/svn/trunk/arale/trunk/js/common/alipay/security/schold'
+let g:netrw_dirhist_2='/Users/janlay/svn/trunk/arale/trunk/js/common/alipay/security/schold/resources'
+let g:netrw_dirhist_3='/Users/janlay/svn/up/lcpt/static'
