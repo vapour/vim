@@ -68,7 +68,7 @@ let loaded_nerdtreeproject = 1
 
 " set default filename for local vimrc
 if !exists("g:NTPNames")
-  let g:NTPNames = ['build.xml', 'Makefile', '.project', '.lvimrc']
+  let g:NTPNames = ['build.xml', 'pom.xml', 'Makefile', '.project', '.lvimrc']
 endif
 
 "Function: s:loadLocalVimrc() {{{3
