@@ -103,6 +103,8 @@ function! s:toggle(name)
 		let cmd .= dir
 	endif
 	execute cmd
+	wincmd w
+	NERDTreeFind
 endfunction
 
 " create new command for this plugin
