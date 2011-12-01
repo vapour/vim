@@ -213,6 +213,7 @@ set viminfo+=n$HOME/.vimfiles/viminfo
 let $FAVOURITES=$HOME . "/.vimfiles/vimfavourites"
 let g:NERDTreeBookmarksFile=$HOME . "/.vimfiles/NERDTreeBookmarks"
 let g:MRU_File=$HOME . "/.vimfiles/mru_files"
+let g:netrw_home=$HOME . "/.vimfiles"
 
 if has("persistent_undo")
 	let s:files_dir=$HOME . "/.vimfiles/undo"
