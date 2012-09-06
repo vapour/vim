@@ -124,7 +124,7 @@ map <Tab> <C-w><C-w>
 map <C-S-Tab> :tabprevious<CR> 
 map <F2> :bprevious<CR>
 map <F3> :bnext<CR>
-map <C-Tab> :tabnext<CR> 
+noremap <C-Tab> :tabnext<CR> 
 map <C-F4> :tabclose<CR>
 map <F4> :split<CR>
 map <S-F4> :vsplit<CR>
